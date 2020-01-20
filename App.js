@@ -161,7 +161,7 @@ const App: () => React$Node = () => {
       flex: 1,
       justifyContent: 'center',
       backgroundColor: '#FFFFFF',
-      paddingTop: 500,
+      paddingTop: 100,
       paddingBottom: 200,
     },
     px25: {
