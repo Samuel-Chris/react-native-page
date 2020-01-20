@@ -103,8 +103,8 @@ const App: () => React$Node = () => {
              </View>
              <FlatList
                 data={[
-                  {key: '£1.61/week'},
-                  {key: 'Start immediately'},
+                  {key: '£0.16/day'},
+                  {key: '2-weeks free'},
                   {key: 'Cancel anytime'},
                 ]}
                 style={styles.mb25}
